@@ -22,10 +22,11 @@
 
 ### $ cat journey.log
 
-> Started coding driven by curiosity about how things work under the hood.
-> What began with small scripts grew into bots, AI tools, and full products used by real people.
-> Now exploring the intersection of AI agents and security — building systems that are both smart and safe.
-> Goal: keep shipping things that solve real problems, one project at a time.
+> I'm Amir Ali Asghari. When I was 13, I realized something... The world is full of robots and technology. Could it all become real?
+> I started coding out of curiosity about how things work under the hood.
+> What began with a few small scripts grew into building bots, AI tools, and full products used by real people.
+> Now I'm exploring the intersection of AI agents and security — building systems that are both smart and safe.
+> My goal is to keep shipping things that solve real problems, one project at a time.
 
 ### $ stack --list
 
