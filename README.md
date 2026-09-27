@@ -13,29 +13,27 @@
 
 ### $ cat about.md
 
--  4+ years in programming and AI
--  Python & AI development — backend systems, APIs, AI agents
--  Telegram bot development (PHP & Python) with AI-agent integrations
--  Full-stack web design — JavaScript, modern frontends
--  Penetration testing, security, and ethical hacking
--  AI management & prompt engineering — building AI-driven workflows
+- 🔭 4+ years in programming and AI
+- 🤖 Python & AI development — backend systems, APIs, AI agents
+- 💬 Telegram bot development (PHP & Python) with AI-agent integrations
+- 🌐 Full-stack web design — JavaScript, modern frontends
+- 🔐 Penetration testing, security, and ethical hacking
+- ⚙️ AI management & prompt engineering — building AI-driven workflows
+
+### $ cat journey.log
+
+> Started coding driven by curiosity about how things work under the hood.
+> What began with small scripts grew into bots, AI tools, and full products used by real people.
+> Now exploring the intersection of AI agents and security — building systems that are both smart and safe.
+> Goal: keep shipping things that solve real problems, one project at a time.
 
 ### $ stack --list
 
 `Python` `PHP` `JavaScript` `Flutter` `Laravel` `Next.js` `React` `SQLite`
 
-### $ skills --breakdown
-
-| Domain | Focus 
-| AI / Python | Backend, APIs, AI agents |
-| Bots | Telegram bots (PHP/Python) + AI agents |
-| Web | Full-stack JS web design |
-| Security | Penetration testing & ethical hacking |
-| AI Ops | AI management & prompt engineering |
-
 ### $ contact --info
 
-Telegram: [@xByteHub](https://t.me/xByteHub)
+📡 Telegram: [@xByteHub](https://t.me/xByteHub)
 
 ---
 
